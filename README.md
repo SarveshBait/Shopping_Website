@@ -16,11 +16,7 @@ A modern and responsive shopping website frontend inspired by real-world eCommer
 
 * HTML5
 * CSS3
-* JavaScript
-* React.js
-* Bootstrap
-* Material UI
-
+  
 ## 🎯 Purpose
 
 This project was built to practice frontend development concepts and improve UI/UX design skills by creating a modern shopping website interface.
