@@ -23,7 +23,7 @@ This project was built to practice frontend development concepts and improve UI/
 
 ## 🌐 Live Demo
 
-https://sarveshbait.github.io/Shopping_Website/
+https://amazon-shopping-website-clone.vercel.app/
 
 ## 📌 Future Improvements
 
